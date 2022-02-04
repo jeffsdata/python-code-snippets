@@ -1,0 +1,995 @@
+,date,jobsource,jobsearch,MetroID,jobtitlenorm,jobeasyapply,jobisorganic,companyname,jobdaysago,companysize,companyfounded,companytype,companyindustry,companysector,companyrevenue,companyrating,companyratings,companyrecommendfriend,companyapproveceo,jobtitle,cityname,jobdescription,wageavg,wagemin,wagemax
+0,2022-01-24,glassdoor,data analyst,1.0,,,,,,1001 to 5000 Employees,1983,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$5 to $10 billion (USD),4.0,1964 Ratings,83 %,92 %,Business Analyst (Remote),"New York, NY","Equivalent Experience
+Description:
+o Experience of crafting end to end customer journeys & then building stories attached to that – effectively somebody who can see things holistically but then drill down to detail as well
+o Work on backlog grooming, collaborate with the RTE, Product Manager, Product Owners & Business to ensure the Backlog is populated with the granular stories needed for development and adequately prioritized.
+o Ensure steady flow of stories that meet business objectives
+o Responsible for the overall story creation and data requirements
+o Work with Business Partners, Product Owners, and other stakeholders to help ensure Business Processes and requirements are accurately captured
+o Experience Supporting QA validation and user story acceptance
+Documentation
+o Proficiency in documenting Business processes
+o Define system and data requirements
+o Identifying dependencies & constraints – work, where needed, to help resolve
+Ceremonies / Communications
+o BAs will lead the backlog grooming and story creation meetings with Business Partners, Developers, POs and other Stakeholders
+o Work closely with technical teams on a daily basis to drive execution and implementation
+o Experience managing the needs of multiple stakeholders at different levels but with the comfort and experience to diplomatically & constructively challenge
+o Be an IT Influencer to Business Partners
+Inter-Personal Skills
+o Experience working in a fast paced development team
+o Strong troubleshooting ability
+o Ability to work independently and effectively in a high-pressure environment against multiple deadlines.
+o Enthusiastic and self-motivated personality with excellent time management skills and a strong sense of initiative
+o Strong analytical, interpersonal, presentation and negotiation skills
+About TEKsystems:
+We're partners in transformation. We help clients activate ideas and solutions to take advantage of a new world of opportunity. We are a team of 80,000 strong, working with over 6,000 clients, including 80% of the Fortune 500, across North America, Europe and Asia. As an industry leader in Full-Stack Technology Services, Talent Services, and real-world application, we work with progressive leaders to drive change. That's the power of true partnership. TEKsystems is an Allegis Group company.
+The company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.","$88,913 /yr (est.)",$58K ,$137K
+1,2022-01-24,glassdoor,data analyst,1.0,Data Analyst,false,false,TEKsystems,24h,1001 to 5000 Employees,1983,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$5 to $10 billion (USD),4.0,1964 Ratings,83 %,92 %,Healthcare Data Analyst,"New Hyde Park, NY","Equivalent Experience
+100% remote
+3 month renewable contract
+Cannot work on a C2C basis or with 3rd party employers
+Top skills:
+Building data interface from Sunrise Clinical Manager which is our clients EMR
+Data from billing will be stored in their database
+- Data analyst experience needed - understand the ask and data elements and then work with the developer and QA
+- Billing and claims experience - FINANCIAL DATA experience
+SQL experience
+Clinical experience is a plus
+Description:
+Our client is looking for a Healthcare Data Analyst for a 100% remote 3 month renewable contract position.
+Business/Functional Responsibilities
+Work closely with product owners and IT partners to develop and analyze business intelligence needs Provide input to business requirements for the design of solutions
+Interpret business requirements and determines optimum BI solutions to meet needs
+Gather, understand and document detailed functional and non-functional requirements for development of BI solutions
+Manage and own end to end requirements for BI solutions/projects using appropriate tools and techniques
+Participates in project planning and execution process including inception, technical design, development, testing and delivery of BI solutions.
+Responsible for stakeholder interaction for gathering, validating and approval of requirements
+Technical Responsibilities Analyzes data requests using information technology, enrollment, claims, pharmacy, clinical, contract, medical management, financial, administrative and other corporate data from both modeled and disparate internal and external sources.
+Develop and implement databases, data collection systems, data analytics to meet business requirements Identifies and addresses expected and unforeseen data complexities to mitigate their impact on the analytic outcome and associated business decisions.
+Works to improve data quality where possible within created analytical models.
+Feeds data quality issues back to IT or identified data stewards to facilitate creation of high quality metrics.
+Develops and may present reports, analyses and findings to Sr management and others as scheduled or requested.
+Skills & Requirements Experience
+Working with life sciences and real world clinical data.
+Solid SQL skills on varied data bases (SQL, ORACLE, MySQL) Strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy
+Strong understanding of databases, data model design, data mining, data auditing, data management trends and technologies
+Programming experience including SQL, scripting languages, ETL Understanding of at least one visualization/reporting tool
+Communication and presentation skills with an ability to influence stakeholders
+About TEKsystems:
+We're partners in transformation. We help clients activate ideas and solutions to take advantage of a new world of opportunity. We are a team of 80,000 strong, working with over 6,000 clients, including 80% of the Fortune 500, across North America, Europe and Asia. As an industry leader in Full-Stack Technology Services, Talent Services, and real-world application, we work with progressive leaders to drive change. That's the power of true partnership. TEKsystems is an Allegis Group company.
+The company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.","$67,913 /yr (est.)",$46K ,$101K
+2,2022-01-24,glassdoor,data analyst,1.0,Data Analyst,true,false,Chamberlain Advisors LLC,30d+,51 to 200 Employees,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,,5.0,0 Ratings,100 %,N/A,Data Migration Analyst,"New York, NY","Title: Data Migration Analyst
+Location: New York, NY (Remote/WFH to Start. Hybrid Schedule in 2022)
+Duration & Type: 12 Month Contract - extensions likely, conversion to FTE probable
+Compensation: Competitive W2 Hourly Rate, Access to Healthcare and Dental Insurance Plan of Choice
+Chamberlain Advisors is currently seeking a Data Migration Analyst for our direct client's Data team in New York. This position is primarily a technical analytical role working with an integrated team of developers, testers and project managers. The analyst is responsible for creating detailed requirements for the ETL team that will allow the build of a new ETL process. This process will migrate data into their new application from the current legacy system. Information will be gathered using JIRA and the analyst will need to focus on gaps that may be revealed during analysis as well as validate the changes that will be going into our new application. Click Apply Now to join the Chamberlain experience!
+
+Accountabilities:
+Assist in the collection and consolidation of required information and data
+Issue tracking, status reporting, regression testing and data quality verification
+Gathering and prepare functional requirements and Non-functional requirements
+Plan and fully document requirements
+Take up change’s requests
+Perform acceptance testing
+Desired Qualifications:
+A bachelor’s degree in Computer Science / Industrial Management or similar
+1 year of experience as a migration analyst
+Well-developed analytical skills
+Basic understanding of methods and processes used in software quality assurance practices
+Good written and oral communication skills
+Proven problem-solving skills
+Hands on technical experience utilizing database tools, basic SQL knowledge.
+Ability to operate standard computer-based business tools (including, but not limited to Microsoft Word and Excel)
+About the Client:
+Mixing powerful thinking and cutting-edge technology, our client is where the world comes to manage risk. Offering the widest range of global benchmark products across all major asset classes. They have created a marketplace for buyers and sellers bringing together individuals, companies, and institutions that need to manage risk. Our client works to serve as the counterparty to every trade that happens in our markets, to protect the integrity of our markets, and to virtually eliminate third-party credit risk. They are more than a marketplace, they are a team of groundbreakers, problem solvers, and difference makers.
+Why Work with Chamberlain?
+Chamberlain Advisors is a veteran-owned business that provides human capital solutions across a wide range of industries and engagement types. Chamberlain candidates benefit from our unique hiring and interviewing process which has been designed to increase the likelihood that they will be successful in their job searches. This is achieved through our 5-step recruitment process, ensuring a top-of-the-line candidate experience. Find out what makes us different; apply to Chamberlain today.
+Equal Opportunity Employer:
+Chamberlain Advisors provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetics. In addition to federal law requirements, Chamberlain Advisors complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.
+Chamberlain Advisors expressly prohibits any form of workplace harassment based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, or veteran status. Improper interference with the ability of Chamberlain Advisors' employees to perform their job duties may result in discipline up to and including discharge.
+
+#LI-JC1","$73,108 /yr (est.)",$55K ,$98K
+3,2022-01-24,glassdoor,data analyst,1.0,Data Scientist,true,false,Bayone Solutions,4d,1001 to 5000 Employees,Company - Private,IT Services,Information Technology,$5 to $10 million (USD),,4.6,33 Ratings,95 %,96 %,Tableau Developer /Data Visualization Developer | Onsite Role,"New York, NY","Role: Tableau Developer /Data Visualization Developer
+Location: NYC,NY, Knoxville, TN, Silver Spring, MD & Sterling, VA. ONSITE for occasional meetings
+Job Description:
+Advanced knowledge of Tableau
+Hands-on experience in SQL programming language and scripting
+Experience developing and optimizing queries on large datasets
+Microsoft Power BI experience is a plus
+Must have the legal right to work in the United States
+Key Areas of Responsibility
+Expertise in using in-depth Tableau capabilities, techniques and standards to produce dashboards and reports that support business needs
+Experience with level of detail expressions and table calculations in Tableau
+Perform data analysis and data validation by comparing data in Tableau to source systems using SQL to write queries.
+Job Types: Full-time, Contract
+Salary: $64.00 - $75.00 per hour
+Schedule:
+8 hour shift
+Work Location: Multiple Locations",,,
+4,2022-01-24,glassdoor,data analyst,1.0,Business Analyst,true,false,Noor Staffing Group,30d+,51 to 200 Employees,2015,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,3.8,15 Ratings,79 %,85 %,REMOTE BUSINESS ANALYST (SALESFORCE),"New York, NY","Lerner, Cumbo & Associates, one of the New York Metropolitan Area's leading staffing firms, is working on an excellent opportunity for a Business Analyst.
+Important features of this role:
+* This is a temporary position with a projected duration of three months.
+* It is a remote position - the selected candidate will work from his/her home.
+* It will be approximately 25 hours per week with flexible hours.
+* The rate is $30/hour (firm).
+* The client is a world renown non-profit organization and a world leader in the Environmental Protection space.
+The client is seeking a smart and detail oriented individual to assist in the processing of donations during the ""busy season."" Although the client has transitioned temporary workers to permanent roles this is not a ""temp-to-perm"" job.
+REQUIREMENTS:
+* Strong working knowledge of Salesforce (preferably including data migration).
+* Previous experience with NetSuite a plus.
+* Excellent data entry skills.
+* A two- or four-year college degree.
+* Strong verbal and written communication skills.
+Interested candidates should email their resumes (preferably as an MS Word attachment or .pdf file).
+#FLE
+Job Type: Full-time
+Pay: Up to $30.00 per hour",,,
+5,2022-01-24,glassdoor,data analyst,1.0,Business Analyst,true,false,Robert Half,4d,10000+ Employees,1948,Company - Public,Staffing & Outsourcing,Business Services,$5 to $10 billion (USD),3.9,605 Ratings,74 %,83 %,Business Analyst,"New York, NY","Are you adept at creating action plans based on business needs and a proficient problem-solver? The Business Analyst will be responsible for the documentation, analysis, and elicitation of business and technical needs across multiple business units. To be successful in this role, you must have exceptional communication skills and a proven ability to communicate technical and business requirements alike.
+
+Your responsibilities in this role
+
+Documents and elicits requirements through user stories, use cases, process flow diagrams, etc.
+Builds relationships and collaborates with business units, development teams, and other stakeholders to gather, analyze and prioritize requests
+Ensures that complex requirements are executable, testable, complete and not ambiguous
+Experience with Agile methodology
+4+ years of business analysis experience
+Ability to write basic to moderately complex SQL queries, as well as technical skills including Word, Excel, PowerPoint, Visio, and Jira (or similar tool)
+Background working with a variety of simple to complex projects
+Willing to take ownership, proactive, flexible, adaptable, strong problem-solving skills, and the ability to communicate to all levels in an organization
+Bachelor's Degree in Computer Science, Management Information Systems, Business Administration or equivalent work experience
+Experience eliciting and documenting requirements in a clear and concise manner
+Technology Doesn't Change the World, People Do.®
+
+Robert Half is the world’s first and largest specialized talent solutions firm that connects highly qualified job seekers to opportunities at great companies. We offer contract, temporary and permanent placement solutions for finance and accounting, technology, marketing and creative, legal, and administrative and customer support roles.
+
+Robert Half puts you in the best position to succeed by advocating on your behalf and promoting you to employers. We provide access to top jobs, competitive compensation and benefits, and free online training. Stay on top of every opportunity – even on the go. Download the Robert Half app and get 1-tap apply, instant notifications for AI-matched jobs, and more.
+
+Questions? Call your local office at 1.888.490.4429. All applicants applying for U.S. job openings must be legally authorized to work in the United States. Benefits are available to contract/temporary professionals. Visit https://roberthalf.gobenefits.net/ for more information.
+
+© 2021 Robert Half. An Equal Opportunity Employer. M/F/Disability/Veterans. By clicking “Apply Now,” you’re agreeing to Robert Half’s Terms of Use .",,,
+6,2022-01-24,glassdoor,data analyst,1.0,Business Analyst,false,false,The Mom Project,20d,51 to 200 Employees,2016,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,,25 Ratings,87 %,93 %,Business Analyst,"New York, NY","Our Customer’s mission is to give people the power to build community and bring the world closer together. Through their family of apps and services, they are building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together.
+We are seeking a Business Analyst on a contract basis to help support our Customer’s business needs. This person will partner effectively with leadership across our Global Marketing Solutions organization and will work cross-functionally with several teams at Company with the objective of enabling leadership to make effective, analytically driven, and strategic operating decisions. The ideal candidate will be passionate about Company, interested in advertising, a strategic thinker, highly analytical, an excellent problem solver, a fast learner, and able think strategically. The candidate will have strong technical acumen and experience managing cross-functional work streams and stakeholders.
+
+What You’ll Do:
+Conduct impactful analyses on major revenue/ market and product trends, including vertical/sub-vertical performance, product adoption, leading revenue indicators, productivity, and sales effectiveness across partners and resellers.
+
+The rhythm of the business: Design and execute on a standard cadence of operations (e.g., forecasting, revenue and operational KPI reviews, key accounts/ partner segment reviews) to inform management with actionable feedback on the state of the business and opportunities
+
+Strategic Planning: Design and drive planning activities with the primary objective of enabling sales and partnership leads to make effective, analytically-driven, and strategic operating decisions to drive growth. This includes medium/long-term go-to-market/ route-to-market planning (strategic, operational, and financial) focused on market opportunity sizing, product focus, resourcing (direct and indirect), and org implications.
+
+Strategic projects and initiatives: Execute critical projects and initiatives with cross-functional teams across the organization. Support local implementation of global programs together with teams in the Region. Drive operational excellence in the sales/ partnership organization through identification and execution of opportunity areas that create efficiency, remove obstacles, or create improved processes and approaches to the business. In conjunction with business owners, provide guidance in developing strategic partnerships by assessing viability and return on investment.
+
+Automation and efficiency: Develop standard processes and tools/dashboards that can be scaled c entrally.
+
+Must-Haves:
+6+ years of work experience (or 4+ years with MBA/ Master’s degree) in Sales Finance, Sales Analytics, Sales Operations, and/or Strategy/Financial Consulting - preferably in the digital media/ online advertising space and with exposure to media partnerships, and agency/reseller/channel partners & programs
+
+Distinctive problem solving and analysis skills, ability to solve complex and diverse business problems (commercial, operational, organizational)
+
+Experience with Excel, SQL, data visualization, Tableau, and reporting tools. Experience with either R or Python a plus but not required.
+
+Solutions and detail oriented, with data acumen
+
+Understanding of organizational dynamics, operating experience with large and complex organization
+
+Education:
+BA/BS in an analytical field (e.g. Computer Science, Engineering, Mathematics, Business or related field)
+
+Hours & Location:
+M-F, 40 hours/week. This role will be remote while COVID restrictions are in place. The expectation is to be onsite at our Customer’s New York, New York office once it is determined safe to do so.
+All applicants applying for U.S. job openings must be legally authorized to work in the United States and are required to have US residency at the time of application.
+Perks are available through our 3rd Party Employer of Record (Available upon completion of waiting period for eligible engagements)
+
+Health Benefits: Medical, Dental, Vision, 401k, FSA, Commuter Benefit Program
+
+Accrued PTO: Up to 15 days per 12 months on assignment
+
+New Child Benefit: Up to $4,000 for the birth or adoption of a child while on assignment (conditions apply)
+
+Please note: In order to create a safe, productive work environment, our client is requiring all contractors to be fully vaccinated according to the CDC guidelines (please inform your employer if you need a medical or religious exemption). Prior to onboarding, contractors will be required to attest that they are fully vaccinated. The expected Return to Office date is July 2022",,,
+7,2022-01-24,glassdoor,data analyst,1.0,Data Analyst,false,true,Northwell Health,14d,10000+ Employees,1997,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion (USD),4.1,1161 Ratings,81 %,93 %,Data Analyst,"New York, NY","Job Description
+Job Description
+Analyzes, verifies, tracks and reports on department related databases and software. Serves as a liaison between department’s analytical needs and technical data storage systems and files; collaborates with stakeholders to document requirements for reporting. Develop analytic reports and dashboards utilizing various databases and third party data files.
+Job Responsibility
+Analyzes, verifies, tracks and reports on department related databases and software.
+Identifies strategies for evaluation of key performance indicators (KPI’s), quality metrics, outcomes evaluation, population management studies, etc.
+Develops technical and functional specifications based on business requirements and analysis of technical workflows.
+Identifies issues in data quality that would impact reporting (i.e. duplicate records, missing data, etc.).
+Identifies methods of data visualization and presentation principles to ensure effective and impactful communication of projects to management.
+Maintains trends and tracks various measures to fully utilize the capabilities of databases and data files.
+Integrates add-on programs to eliminate or streamline back end processes.
+Serves as a liaison between departments analytical needs and technical data storage systems and files.
+Operates under general guidance and work assignments are varied and require interpretation and independent decisions on course of action.
+Performs related duties as required. All responsibilities noted here are considered essential functions of the job under the Americans with Disabilities Act. Duties not mentioned here, but considered related are not essential functions.
+Job Qualification
+Bachelor's Degree required, or equivalent combination of education and related experience.
+1-3 years of relevant experience, required.","$74,710 /yr (est.)",$56K ,$100K
+8,2022-01-24,glassdoor,data analyst,1.0,Data Analyst II,true,true,Mount Sinai Health System,3d,10000+ Employees,2013,Hospital,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD),3.5,564 Ratings,59 %,57 %,Data Analyst II,"New York, NY","We are seeking a Data Analyst(Research Analyst) in the Brookdale Department of Geriatrics and Palliative Medicine to work on research studies related to serious illness, dementia, and end of life care using survey data (e.g., the Medicare Current Beneficiary Survey [MCBS], the Health and Retirement Study [HRS], and the National Health and Aging Trends Study [NHATS]) as well as health systems data. This position is ideal for Data Analysts with experience in non-linear modeling and management of complex longitudinal datasets who are interested in caregiving, serious illness, dementia, home-based care, and/or health disparities. Experience and/or interest in public health, epidemiology, and/or economics is helpful. This position may include opportunities for authorship on academic publications.
+The Data Analyst II oversees activities related to data integrity, security and enhancement of the value of data. The Data Analyst II may direct the movement of data across multiple systems; oversee its validation and organization and make sure that data is available to appropriate people and systems within an organization. The Data Analyst II will also develop and execute reports that will be important assets of the practice as they continue to develop and evaluate a new model of care.
+Roles & Responsibilities:
+Work with the clinical and administrative staff of the practice to define data reporting needs
+Develop analytic reports that are easily understandable by clinical and administrative staff.
+Use modeling techniques and tools in analyzing and specifying data structure
+Implement best practices in data management to ensure the integrity of the data, the quality of data processes and deliver analyzable or analyzed data to a variety of internal and external clients of the affiliated practice
+Maintain data integrity and completes data analysis as necessary
+Complete data capture, data extraction and analysis
+Develop, maintain or implement procedures for data entry, data cleaning, documentation and other administrative tasks
+Document, implement, maintain or recommend operating methods to improve processing, distribution, data flow, collection, database editing procedures
+May define parameters for file or space utilization
+Work closely with IT management and staff
+Access data in the Data Warehouse, as required
+Assist clinical and administrative staff with queries, statistical analyses, reports and technical difficulties related to data retrieval
+Design and write custom applications needed to ensure the database meets requirements for the entry, management and reporting of data
+Identify and recommend solutions to data management issues
+Maintain knowledge of the current regulations and technologies related to data management
+Write and prepare manuscripts and other materials for internal and external audiences
+Perform other related duties
+Help to build and perpetuate a practice environment and culture of collaboration, respect, learning, flexibility and fun among all team members
+Requirements:
+Bachelor’s degree, or equivalent combination of equivalent work experience and education. Master’s degree in relevant field of study preferred
+3 years of analytics experience including report development and database application/management experience, preferably in a large medical center or healthcare environment
+Advanced knowledge of database applications / management, SQL and /or SAS. Knowledge of computer programming preferred
+Job Type: Full-time
+Benefits:
+401(k) matching
+Dental insurance
+Employee assistance program
+Flexible schedule
+Flexible spending account
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Parental leave
+Professional development assistance
+Tuition reimbursement
+Vision insurance
+Schedule:
+Monday to Friday
+COVID-19 considerations:
+Covid 19 vaccination required
+Ability to commute/relocate:
+New York, NY: Reliably commute or planning to relocate before starting work (Preferred)
+Education:
+Bachelor's (Required)
+Experience:
+SQL/SAS: 3 years (Required)
+Data & Technical Business Analysts: 3 years (Required)
+Work Location: One location","$77,294 /yr (est.)",$61K ,$98K
+9,2022-01-24,glassdoor,data analyst,1.0,Data Analyst,false,true,United Nations Development Programme (UNDP),20d,10000+ Employees,Nonprofit Organization,Federal Agencies,Government,Unknown / Non-Applicable,,4.2,265 Ratings,90 %,94 %,UN Women: Data Analyst,"New York, NY","UN Women: Data Analyst
+
+
+
+Advertised on behalf of :
+
+
+
+Location :
+New York, UNITED STATES OF AMERICA
+
+Application Deadline :
+24-Jan-22 (Midnight New York, USA)
+
+Time left :
+0d 2h 52m
+
+Type of Contract :
+FTA International
+
+Post Level :
+P-2
+
+Languages Required :
+English
+
+Duration of Initial Contract :
+1 year
+
+
+
+UNDP is committed to achieving workforce diversity in terms of gender, nationality and culture. Individuals from minority groups, indigenous groups and persons with disabilities are equally encouraged to apply. All applications will be treated with the strictest confidence.
+
+UNDP does not tolerate sexual exploitation and abuse, any kind of harassment, including sexual harassment, and discrimination. All selected candidates will, therefore, undergo rigorous reference and background checks.
+
+
+
+
+
+UN Women, grounded in the vision of equality enshrined in the Charter of the United Nations, works for the elimination of discrimination against women and girls. the empowerment of women. and the achievement of equality between women and men as partners and beneficiaries of development, human rights, humanitarian action and peace and security.
+UN Women’s global gender data programme, “Making Every Woman and Girl Count” (Women Count), delivered significant results in scaling up work on gender statistics availability, accessibility, and use during Phase I of its implementation. For Phase II, with gender data being elevated as one strategic outcome of UN Women’s 2022-2025 Strategic Plan, Women Count will continue to support Member States and lead efforts on mainstreaming gender perspectives in three key interventions:
+Enabling environment for the production and use of gender statistics: Put in place supportive policy, legal and financial environment to ensure gender-responsive national adaptation and effective monitoring of the Sustainable Development Goals (SDGs)
+Increasing the production of gender statistics: Increase availability of quality, comparable and regular gender statistics to address national data gaps and meet policy and reporting commitments under the SDGs, Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW), and Beijing Declaration
+Increasing data accessibility and use: Ensure that gender statistics are accessible to all users (including governments, civil society, academia and private sector) and can be analyzed, communicated, and used to inform research, advocacy, policies and programmes, and promote accountability
+As part of UN Women’s role as the lead monitoring agency for a number of gender-related targets and indicators, one key outcome of the Women Count programme is the development of the Women Count data hub, which was launched in September 2019. The hub consolidates the gender-related indicators of the SDGs, as well as gender data across UN Women’s key thematic areas, and maintains an updated list of country fact sheets. The data hub also generates customized dashboards to highlight different initiatives and publishes gender data stories that are informed by visualizations that present data in innovative and accessible formats. Under the supervision of the Outreach, visibility and online content specialist, the Data Analyst will help maintain the database, update the data where needed and generate customized data visualizations to accompany gender data stories.
+
+
+
+Duties and Responsibilities
+
+
+Under the supervision of the Outreach and Communication Specialist, the incumbent will perform the following functions:
+1. Maintain the data on the Women Count data hub:
+Maintain the data dashboards of the Women Count data hub.
+Ensure the database is updated as per schedule, imports data to Excel and upload to the portal.
+Develop data collection systems, data analytics and other strategies that optimize statistical efficiency and quality.
+Acquire data from primary or secondary data sources and maintain the data.
+Identify, analyze, and interpret trends or patterns in complex data sets.
+Work with management to prioritize business and information needs of the data hub.
+Locate and define new process improvement opportunities.
+Provide technical support in data collection, compilation and quality control.
+Report technical/system issues to IST of UN Women and technical support providers, and monitor the status of these issues.
+Regularly review, analyze and evaluate business and user needs and experience to improve the design, development and implementation of the database.
+Provide administrative and coordination support to the outreach specialist in managing and assigning approval roles in IT systems of UN Women related to the portal, including playing super admin role in the database management system.
+Collect and analyze feedback from users to assess the quality, relevance and usefulness of the portal and the data in particular.
+Capture bugs and any technical issues in the issue tracker and follow up with the developers.
+
+2. Provide database liaison support:
+Serve as the data focal point with UNSD and relevant data custodian agencies as needed, to communicate regarding data updates and other developments.
+Work closely with IST colleagues and developers to coordinate the database and data requirements.
+Communicate regularly with IST colleagues to provide updates on database maintenance, support, and other relevant issues.
+Provide technical support to UN Women’s country offices in all Statistical Data and Metadata Exchange (SDMX)-related work.
+Represent UN Women in inter-agency statistical forums as needed.
+Contribute to technical discussions related to SDMX and similar capacity building projects.
+
+3. Develop custom data visualizations and dashboards:
+Produce customized data visualizations to support gender data stories.
+Create custom dashboards and interactive data features.
+Develop and manage the data dashboards for UN Women’s rapid gender assessments on COVID-19.
+
+4. Support data hub web development and content:
+Build custom web pages on the Data Hub as needed.
+Update web content as required, using the Drupal CMS.
+Support the team on other tasks as required.
+
+Key Performance Indicators
+Data dashboards are up to date and accurate.
+Country fact sheets are maintained, and the data is current.
+Effective communication with custodian agency counterparts and other vendors and partners.
+Quality data visualizations are produced based on up-to-date design and technology.
+Custom pages are built using modular templates and modifications are made as needed.
+Custom dashboards are built and maintained to support specific data initiatives.
+
+
+
+Competencies
+
+
+Core Values:
+Respect for Diversity
+Integrity
+Professionalism
+Core Competencies:
+Awareness and Sensitivity Regarding Gender Issues
+Accountability
+Creative Problem Solving
+Effective Communication
+Inclusive Collaboration
+Stakeholder Engagement
+Leading by Example
+Please visit this link for more information on UN Women’s Core Values and Competencies: http://www.unwomen.org/-/media/headquarters/attachments/sections/about%20us/employment/un-women-employment-values-and-competencies-definitions-en.pdf
+FUNCTIONAL COMPETENCIES:
+Strong knowledge of databases, and experience supporting projects involving databases.
+Demonstrated ability to work in a team supporting databases, working with data and conducting data analysis, and in a cooperative and productive fashion both with internal and external colleagues.
+Up-to-date knowledge of ICT and database development and practices.
+Strong statistical analytical skills.
+Strong organizational skills.
+Strong communication skills, especially with respect to data.
+Good understanding of and commitment to gender equality and women's empowerment and its policy implications.
+Good interpersonal and networking skills, and ability to work in multi-cultural and multi-disciplinary environments. ability to build and promote partnerships across the organization and beyond.
+Ability to work under pressure on multiple projects whilst maintaining quality and timeliness.
+Knowledge of the mandate and work of UN Women.
+Familiarity with relational databases and data warehouse.
+
+
+
+Required Skills and Experience
+
+
+Education and certification:
+Advanced university degree (master’s degree or equivalent) in statistics, economics, information systems, computer science, ICT, or other social science fields;
+A first-level university degree in combination with two additional years of qualifying experience may be accepted in lieu of the advanced university degree
+Experience:
+A minimum of 2 years of experience as a data analyst or business data analyst;
+Experience with SQL and BI tools (Tableau, Qlik, or similar tools);
+Experience in statistical analysis and familiarity with SDMX.
+Experience in Drupal content management system is a Plus;
+Language Requirements:
+Fluency in English is required
+Knowledge of another UN official working language is an asset.
+
+Application:
+All applications must include (as an attachment) the completed UN Women Personal History form (P-11) which can be downloaded from https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/About%20Us/Employment/UN-Women-P11-Personal-History-Form.doc Kindly note that the system will only allow one attachment. Applications without the completed UN Women P-11 form will be treated as incomplete and will not be considered for further assessment.
+GS fixed-term appointment (FTA) and temporary appointment (TA) positions located in New York are open to candidates who are either US Permanent Residents, US Citizens or holders of a valid G4 visa at the time of their application and whose G4 visa has been acquired on account of their employment in the UN Systems based in New York.
+Note:
+In July 2010, the United Nations General Assembly created UN Women, the United Nations Entity for Gender Equality and the Empowerment of Women. The creation of UN Women came about as part of the UN reform agenda, bringing together resources and mandates for greater impact. It merges and builds on the important work of four previously distinct parts of the UN system (DAW, OSAGI, INSTRAW and UNIFEM), which focused exclusively on gender equality and women's empowerment.
+At UN Women, we are committed to creating a diverse and inclusive environment of mutual respect. UN Women recruits, employs, trains, compensates, and promotes regardless of race, religion, color, sex, gender identity, sexual orientation, age, ability, national origin, or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, competence, integrity and organizational need.
+If you need any reasonable accommodation to support your participation in the recruitment and selection process, please include this information in your application.
+UN Women has a zero-tolerance policy on conduct that is incompatible with the aims and objectives of the United Nations and UN Women, including sexual exploitation and abuse, sexual harassment, abuse of authority and discrimination. All selected candidates will be expected to adhere to UN Women’s policies and procedures and the standards of conduct expected of UN Women personnel and will therefore undergo rigorous reference and background checks. (Background checks will include the verification of academic credential(s) and employment history. Selected candidates may be required to provide additional information to conduct a background check.)
+
+
+
+Click here for important information for US Permanent Residents ('Green Card' holders).","$68,911 /yr (est.)",$49K ,$96K
+10,2022-01-24,glassdoor,data analyst,1.0,Data Analyst,true,true,Qi Venture Partners,18d,,,,,,,,,,,Data Analyst,"New York, NY","As a Data Analyst, you will act as a gatekeeper for Qi and its portfolio company’s data so management can understand the information and use it to make strategic business decisions. The ideal candidate will use their passion for big data and analytics to provide insights to the business covering a range of topics. They will be responsible for conducting both recurring and ad hoc analysis for business users.
+Responsibilities
+Analyze, sort, and filter data based off of parameters assigned by management
+Conduct and communicate a thorough analysis of large data sets
+Cleaning and normalizing data within excel
+Formatting data within SQL
+Collecting and reporting new data
+Ensuring the quality and accuracy of data
+Transforming business information into data models
+Structure complex data sets to find usable information and reach a conclusion
+Effectively communicate trends, patterns, and predictions using relevant data
+Sifting through data to identify weaknesses, trends, or opportunities
+Qualifications
+1-3 years of relevant professional work experience
+Bachelor’s degree from a top university
+Highly proficient with Excel
+Ability to clearly and concisely communicate key ideas, both verbal and written
+Excellent attention to detail
+Analytical and problem-solving skills
+Comfortable working across multiple industries
+Experience working with SQL preferred but not required
+Job Type: Full-time
+Pay: $60,000.00 - $70,000.00 per year
+Benefits:
+Dental insurance
+Health insurance
+Paid time off
+Parental leave
+Vision insurance
+Schedule:
+Monday to Friday
+Supplemental Pay:
+Bonus pay
+COVID-19 considerations:
+All employees are required to be fully vaccinated and will have to show proof of vaccination.
+Ability to commute/relocate:
+New York, NY 10010: Reliably commute or planning to relocate before starting work (Required)
+Education:
+Bachelor's (Preferred)
+Experience:
+SQL: 1 year (Preferred)
+Microsoft Excel: 1 year (Preferred)
+data analysis: 1 year (Preferred)
+Work Location: One location",,,
+11,2022-01-24,glassdoor,data analyst,1.0,Data Analyst,false,true,the NBA,30d+,1001 to 5000 Employees,1946,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",Unknown / Non-Applicable,3.8,136 Ratings,76 %,92 %,"Project Employee, Data Analyst","New York, NY","Data Analyst, Project
+At the NBA, we’re passionate about growing and celebrating the game of basketball. Through the intensity of the game and the amazing athletic skill of our players, we deliver excitement to hundreds of millions of fans around the world. As a global sports and media business, the NBA is so much more.
+Major Responsibilities:
+Monitor data and API connections and communicate errors and findings to database solutions team
+Develop and maintain content tracking schedule to fill data gaps across platforms
+Own data management projects (e.g. data standardization projects, SQL development, data mapping)
+Demonstrate strong Excel skills to manipulate data to provide research and briefings on key digital platforms, updates and trends
+Lead content tagging efforts to drive insights and analysis that inform strategy across social and digital platforms
+Learn to populate, design and build effective and high-performing Tableau reporting solutions
+Explore and learn new ways to automate and cut down time spent pulling data to increase team’s overall efficiency
+Publish and maintain customized interactive reports and dashboards using Tableau Server
+Provide competitive analysis of social content across platforms and use insights to generate strategic ideas and recommendations for the NBA
+
+Job Requirements:
+0-2+ years of analytical experience
+Intermediate to advanced background and experience working with Microsoft Excel is preferred
+Detail oriented data background and exemplary analytical skills
+Knowledge of social media platforms
+Exposure or experience using Tableau Desktop, including calculations, visualizations, and knowledge of the practices and techniques of dashboard development a plus
+Knowledge of social media analytics, listening and measurement tools (i.e. – CrowdTangle, YouTube Analytics, etc.) is ideal
+Ability to work within demanding timeframes in a dynamic environment
+High attention to detail, design, and innovation
+Passion for data and eagerness to learn new analytics tools and languages","$67,248 /yr (est.)",$45K ,$99K
+12,2022-01-24,glassdoor,data analyst,1.0,Data Analyst,true,true,Net2Aspire,12d,,,,,,,,,,,Jr. Data Analyst,"New York, NY","Apply Statistical and Machine Learning methods to specific business problems and data. * Ensure data quality throughout all stages of acquisition and processing, including such areas as data sourcing/collection, ground truth generation, normalization, transformation, cross-lingual alignment/mapping, etc. * Design, develop, evaluate, and release highly innovative models elevate the customer experience and track impact over time * Collaborate with colleagues from multidisciplinary science, engineering and business backgrounds. * Work with engineers to develop efficient data querying and modelling infrastructure for both offline and online use cases * Manage your own process: identify and execute on high impact projects, triage external requests, and make sure you bring projects to conclusion in time for the results to be useful
+Job Types: Full-time, Part-time
+Pay: $65,000.00 - $80,000.00 per year
+Schedule:
+8 hour shift
+Education:
+Bachelor's (Required)
+Experience:
+Data analysis skills: 1 year (Required)
+Work Location: Multiple Locations",,,
+13,2022-01-24,glassdoor,data analyst,1.0,Data Analyst,false,true,ICL,30d+,1001 to 5000 Employees,1986,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD),3.2,36 Ratings,62 %,75 %,Data Analyst IT552502,"New York, NY","NOTE: All applicants must comply with ICL/NYC’s vaccination policy. Individuals selected for employment cannot begin working until they provide verification that they are fully vaccinated against COVID-19 (with an FDA-authorized vaccine).
+The data analyst collects, cleans, analyzes, reports, and visualizes the data pertinent to ICL operation, clinical activities, and administration. The individual will assist with assigned program evaluation and research-related tasks. The individuals will conduct literature reviews to support new initiatives or ongoing evaluation efforts, manage data collection process, liaise across program sites to refine projects and present written findings. This position requires both methodical and technical skill sets with organization, collaboration, attention to detail, proficiency at problem solving, and ability to work in a fast-paced atmosphere with minimal direction.
+Collect, clean, and analyze data from ICL application systems, public registries, trading partners, and otherwise via surveys, interviews, observation, and/or group facilitation through designated computer software programs (e.g. R and/or SPSS)
+Ensure integrity of data generated internally and collected from outside sources
+Track progress and review project tasks to make certain deadlines are met appropriately
+Assist in the development of reports, presentations, and other communication materials. This may include literature review of paper or electronic case records for evidence of appropriateness of services as well as quality management of research activities published on the world wide web, books, journals and other publications in the behavioral healthcare industry
+Consult said report findings with program staff to assist in strategy to utilize report findings
+Participate in cross-functional teams for specific projects supporting ICL and programs affiliated
+Other tasks and duties as needed
+MINIMUM EDUCATION AND EXPERIENCE REQUIRENT
+Bachelor’s degree in statistics or biostatistics. Master’s degree preferred.
+Experience with psychology, Social Work, Public Health, or related discipline preferred.
+Strong knowledge and technical skills of statistical analysis techniques and supportive computer software packages (e.g. SPSS, R, or PYTHON)
+Experience related to program evaluation or evaluation research-related project preferred
+#CB
+Education
+Required
+Bachelors Degree or better in Statistics or related field",,,
+14,2022-01-24,glassdoor,data analyst,1.0,Data Analyst,false,true,TikTok,30d+,1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,3.5,180 Ratings,60 %,66 %,"Data Analyst, SMB","New York, NY","TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Mumbai, Singapore, Jakarta, Seoul, and Tokyo.
+
+TikTok's SMB team aims to help businesses and brands of all sizes unleash their creative side, connect with our audience, or perhaps be discovered! From designing scaled sales and service delivery programs to ensuring our customers have best-in-class tools and products at their fingertips, our SMB team combines operational expertise with a customer-centric mindset to help businesses achieve their marketing goals on TikTok, no matter how big or small.
+
+We're looking for a Data Analyst to support our SMB Global Analytics team. As an SMB Data Analyst, you will drive quantitative analysis projects from start to finish regarding the SMB service channel, developing insights that help us understand the effectiveness of our sales & service teams and that identify opportunities to help SMBs grow to become successful advertisers. You will assist in the development of SMB business metrics, data structures and analytical frameworks and partner cross-functionally to use data to identify trends and solve problems.
+
+Key responsibilities:
+1. Apply expertise in quantitative analysis, data mining, and the presentation of data to see beyond the numbers and understand how our advertisers interact with our core products.
+2. Partner with Sales, Marketing, Product and Engineering teams to solve problems and identify trends.
+3. Build/maintain reports, dashboards, and metrics to monitor the performance of our sales & service teams and the SMB advertisers they support.
+4. Mine massive amounts of data and extract useful product insights.
+1. 2+ years work experience doing quantitative analysis;
+2. Expert experience pulling large and complex data using SQL;
+3. Experience with a data visualization tool (e.g. Tableau);
+4. Basic experience with Python programming;
+5. Excellent verbal and written English communication skills with experience communicating the results of analyses.
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We believe individuals shouldn't be disadvantaged because of their background or identity, but instead should be considered based on their strengths and experience.
+
+TikTok is committed to providing reasonable accommodations during our recruitment process. If you need assistance or an accommodation, please reach out to us at accommodations@tiktok.com.","$81,820 /yr (est.)",$58K ,$116K
+15,2022-01-24,glassdoor,data analyst,1.0,Data Analyst,false,true,MIRROR,12d,1 to 50 Employees,Self-employed,Unknown / Non-Applicable,,,,2.0,0 Ratings,N/A,N/A,Data Analyst (Remote),"New York, NY","Who MIRROR is
+
+MIRROR is the world’s first nearly invisible home gym featuring live and on-demand fitness classes in a variety of workout genres, and 1:1 personal training. We’ve created a new category of in-home fitness with cutting-edge hardware, responsive software, and best-in-class content that transforms any room into a complete home gym. For the first time, the essential components of a great studio workout-variety, personalization, and community-are brought to the most convenient place: the home.
+
+In 2020, MIRROR joined the lululemon family. Shoppers can now experience MIRROR in 200 stores and counting across North America. Operating as an independent entity while having the resources of a public, global company behind us, we’ll continue to grow rapidly with amazing workout content and in-home fitness innovation.
+We’re an inclusive space for all identities and are committed to keeping that foundation intact during this rapid growth.
+
+Do you see yourself here? Learn about the role and challenge below!
+
+Who you are
+
+You are a collaborative data analyst that has at least a few years of working in an analytics role, ideally in a fast-paced, high-growth technology company. This means that you’ve been successful in taking on a variety of projects that deliver tangible business impact while working closely with other key collaborators from Marketing, Finance, and Operations teams. You have outstanding business insight which leads to a solid understanding of how these different teams work together to hit critical metrics. Not only do you have a clear purview of multi-functional dynamics, you also have a curiosity about optimizing work processes that build more efficiency and data literacy across teams. You have a firm grasp of data flows (where data come from, how it gets to the end-user) and are learning to make an impact on how to improve these within analytics teams. You write SQL at an advanced level daily and can contribute to a BI tool (developing in Looker), build data models within dbt, and package up insights in write-ups/decks for your partners. On top of that, you are an effective communicator that delivers timely and effective information that helps partners make great business decisions.
+
+How the role impacts MIRROR
+
+The Data Analyst will help build the foundation for MIRRORs long-term data analytics and reporting infrastructure during a period of rapid growth. From building reporting infrastructure (data models, Looker explores) to making KPIs more easily and widely accessible and tackling complex and open-ended questions, the Data Analyst will help MIRRORs core business units make thoughtful decisions.
+How you’ll impact the role
+Communicate crucial insights to collaborators in a manner that efficiently influences decision making
+Assist with experimental design and the interpretation of the results
+Promote data expertise, standard methodologies, and documentation for all analytical data needs
+Establish relationships with multiple business stakeholders including Marketing, Operations, Finance, and more to find opportunities for more effective ways of working
+Manage expectations and align efforts to meet business needs by developing a good communication process between teams
+
+Some value you’ll receive from MIRROR:
+Competitive compensation
+Competitive healthcare coverage
+401K program with company match
+Self-directed flexible time-off
+Free MIRROR and subscription
+Work-from-home stipend
+lululemon employee discount
+Other perks
+
+BEFORE YOU APPLY...
+
+We ask that you remove your name, email, and all other personal identifying information from your resume before you submit it. This helps us reduce unconscious bias during the resume review process so we can focus on what you’ve done above all else.
+You must reside in the United States to be considered for this position.","$64,639 /yr (est.)",$40K ,$103K
+16,2022-01-24,glassdoor,data analyst,1.0,Policy Analyst,false,true,NYC Office Of The Mayor,30d+,51 to 200 Employees,Government,Unknown / Non-Applicable,,,,4.0,0 Ratings,100 %,N/A,"Policy Analyst, Data","New York, NY","ORGANIZATIONAL PROFILE
+The Mayor’s Office of Operations (Operations) works to make New York City government more effective
+and efficient. The Office is responsible for managing and coordinating multiagency initiatives and using
+data to help the City make informed policy decisions and strategic, targeted investments. The Office
+oversees the daily operations of City agencies, coordinates City initiatives, and assists agencies in
+improving service quality and in measuring performance to provide greater accountability.
+
+The Project and Performance Management Team supports policy and program implementation across
+the City. We work with City agencies and offices to launch new initiatives, improve existing projects and
+develop cross-agency relationships and work plans in order to drive efficiency and deliver on the
+Mayor’s equity agenda. We also track and monitor the progress of mayoral commitments and initiatives.
+
+Operations is committed to achieving equity and creating an inclusive workplace. The City understands
+equity to mean that an individual’s demographic identity – particularly, but not exclusive to, their race,
+ethnicity, gender identity, income, sexual orientation, and/or disabilities – should not determine their
+life outcomes. To foster an inclusive workplace, Operations is committed to providing opportunities for
+staff development and effective team building, open and transparent communication, enhancing our
+equity literacy, and providing space for exploring issues of diversity. We continue to strive for a
+workforce that better reflects the diversity of New York City.
+
+JOB RESPONSIBILITIES
+The Policy Analyst will provide analytical, technical and project management support for planning and
+implementing projects that improve the efficiency, effectiveness and accessibility of key City services.
+
+The job responsibilities for the Policy Analyst include, but are not limited to:
+Providing technical and analytical support by:
+o Conducting quantitative and qualitative data analysis and research in support of project
+goals
+o Developing data presentations, dashboards, reports, and maps
+o Responding to rapid requests for data analysis and reporting
+Providing project management support by:
+o Drafting work products including project engagement agreements, governance
+structures, project plans, status reports and project close-out documentation
+o Staffing meetings by drafting agendas, preparing presentation materials, compiling and
+sharing summary notes and scheduling
+o Coordinating with team members and agency partners to make sure projects and
+deliverables are on track
+Acting as a liaison to City agencies to track and monitor progress on a portfolio of Mayoral
+initiatives and commitments
+Undertaking special projects and be expected to manage to completion
+NYC OFFICE OF THE MAYOR
+OFFICE OF OPERATIONS
+Salary:
+Salary: $54,100 - $62,150 *for current City employees with two or more years of continuous service
+
+TO APPLY:
+To apply, click here or search for job number 503947.
+
+New York City Residency Is Required Within 90 Days of Appointment.
+The City of New York and the Office of the Mayor are Equal Opportunity Employers.
+
+For current job opportunities in the NYC Mayor’s Office visit: Office of the Mayor Jobs
+If you are a qualified individual with a disability or a disabled veteran, you may request a reasonable
+accommodation if you are unable or limited in your ability to access job openings or apply for a job
+on this site as a result of your disability. You can request reasonable accommodations by contacting
+Human Resources at HR@cityhall.nyc.gov.",,,
+17,2022-01-24,glassdoor,data analyst,1.0,Data Analyst,true,true,"Lawrence J. Berger, P.C.",30d+,,,,,,,,,,,Data Analyst for Law Firm,"New York, NY","Property Tax Law Firm looking for a skilled analyst to assist in our property valuation department. Candidate must be proficient at Microsoft Excel and Google Spreadsheets. Will train with specifics concerning property valuation and other spreadsheeting tasks. Candidate must have an excellent work ethic, a desire to learn, and ability to multitask.
+Website: www.ljbpc.com
+Job Type: Full-time
+Pay: From $50,000.00 per year
+Benefits:
+Health insurance
+Paid time off
+Retirement plan
+Schedule:
+8 hour shift
+COVID-19 considerations:
+Candidate must be vaccinated.
+Ability to commute/relocate:
+New York, NY 10016: Reliably commute or planning to relocate before starting work (Preferred)
+Experience:
+Microsoft Excel: 1 year (Preferred)
+Work Location: One location",,,
+18,2022-01-24,glassdoor,data analyst,1.0,Data Analyst,false,true,NYC Careers,9d,1 to 50 Employees,Nonprofit Organization,Education Training Services,Education,Unknown / Non-Applicable,,4.0,0 Ratings,100 %,N/A,Data Analyst,"New York, NY","The Teachers’ Retirement System of the City of New York (TRS) is a public pension fund that provides New York City educators with retirement, disability, and death benefits. TRS was established on August 1, 1917 and is one of the largest pension plan sponsors in the United States, with more than $90 billion in assets and over 215,000 active and inactive members, retirees and beneficiaries.
+
+TRS is seeking a Data Analyst to assist with all of the aspects of the Data Analytics for the Employer Management Group/Operations Unit. Under the direct supervision of the Deputy Director, the selected candidate will be responsible for supporting the analytic and research efforts of the department.
+
+Primary Duties & Responsibilities:
+1. Data Analysis
+Profile, analyze and resolve employer and payroll agency reported data issues
+Performance reporting and data analysis related to payroll discrepancy and deficit identification and resolution
+Perform trend analysis and proactive data audits along with data issues resolution
+Identify deficit trends and support large scale projects to reduce deficits that may involve a legacy system
+enhancement or in post-modernization
+Run back end queries to support proactive identification and mitigation of deficits and payroll exceptions
+Analyze large data sets using Excel pivot tables, SQL queries and Tableau
+Visualize large data sets using Tableau, maintain executive performance dashboard and automate data updates as needed
+Maintain executive performance dashboard and automate updates as needed
+Support ongoing business and data analysis to ensure comprehensive performance monitoring across QPP business units
+Handle all data analysis and reporting to support the agency's key performance indicator
+
+2. Operations
+Use retirement system application, and related software to
+Process and resolve data exceptions
+Resolve missing contributions and other payroll deduction, employment and salary discrepancies
+Handle heavy data entry and generate account status reports
+Minimum Qual Requirements
+1. A baccalaureate degree from an accredited college or university including or supplemented by 12 credits in mathematics, statistics, accounting, and/or actuarial science and four years of satisfactory full-time experience implementing the provisions of a retirement plan involving the use of mathematical, statistical, actuarial or accounting computations, 18 months of which must have been in an administrative, managerial or executive capacity or supervising professionals implementing the provisions of a retirement plan involving the use of mathematical, statistical, actuarial or accounting computations; or
+
+2. An associate degree or 60 credits from an accredited college or university, including or supplemented by 12 credits in mathematics, statistics, accounting and/or actuarial science and six years of satisfactory full-time experience as indicated in “1”; or
+
+3. Education and/or experience equivalent to “1” or “2” above. However, all candidates must have 60 credits from an accredited college or university, including or supplemented by 12 credits in mathematics, statistics, accounting and/or actuarial science and the 18 months of experience in a supervisory, administrative, managerial or executive capacity as described in “1” above.
+Preferred Skills
+Ability to work on multiple tasks and assignments while maintaining attention to detail and the ability to be flexible with changing demands.
+Minimum of two (2) years experience performing data analysis on large scale data sets preferably cloud based data solutions
+Excellent written, verbal and interpersonal communication skills
+Experience using SQL to query data across complex databases
+Experience using Tableau to visualize large data sets
+Knowledge with business intelligence and data analytics
+Ability to quickly learn new retirement system software tools
+Ability to think creatively, embrace new approaches, and pioneer innovative solutions to intricate problems.
+
+Competencies
+1) Analytical Thinking
+2) Drive for Results
+3) Commitment
+4) Flexibility
+5) Team Focus
+Additional Information
+At TRS we celebrate diversity and are committed to creating an inclusive environment for all employees. We are an Equal Opportunity Employer and do not discriminate based upon race, religion, color, national origin, ancestry, age, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity or expression, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+
+The Teachers’ Retirement System of NYC offers reasonable accommodation during the application process for qualified individuals with disabilities. If you need assistance during the application or interview process and in completing new hire paperwork to accommodate a disability, please email requests to: HRInquiry@trs.nyc.ny.us. TRS also offers reasonable accommodation during employment in accordance with federal, state and local laws.
+To Apply
+External Applicants, please go to www.nyc.gov/jobs and search for Job ID#: 515165.
+Current City Employees, please go to www.nyc.gov/ess and search for Job ID#: 515165.
+
+**Candidates serving in a comparable civil service title may apply**
+
+Qualified persons who have been certified as disabled and eligible to participate in 55-a program may apply.
+
+We appreciate your interest and thank all applicants who apply. Only those candidates under consideration will be contacted.
+Residency Requirement
+New York City residency is generally required within 90 days of appointment. However, City Employees in certain titles who have worked for the City for 2 continuous years may also be eligible to reside in Nassau, Suffolk, Putnam, Westchester, Rockland, or Orange County. To determine if the residency requirement applies to you, please discuss with the agency representative at the time of interview.",,,
+19,2022-01-24,glassdoor,data analyst,1.0,Analyst,false,true,EnergyWatch,14d,1 to 50 Employees,2000,Company - Private,Utilities,"Oil, Gas, Energy & Utilities",$1 to $5 million (USD),4.7,0 Ratings,100 %,N/A,Data Processing Analyst,"New York, NY","About EnergyWatch:
+EnergyWatch is an entrepreneurial, private equity backed New York City-based provider of energy and sustainability management software-as-a-service and associated professional services to large commercial and corporate real estate, retail portfolios, industrial energy consumers, and utilities. By combining various streams of utility, weather, commodity market, metering, and building data in our integrated energy and sustainability management platform, we provide data-driven services and insights that save time and money, reduce risks, identify cost saving opportunities, and help clients track their sustainability goals.
+Through our platform, we serve nearly a billion square feet of real estate, thousands of utility accounts, and ~$3 billion in annual utility spend across 49 states and 4 continents. Our clients range from mature sustainability veterans representing GRESB sector leaders, ENERGY STAR Partners of the Year, and progressive thought leaders, to companies just starting the sustainability journey with their first voluntary report(s), as well as clients simply interested in optimizing their utility bill management and reporting practices. Regardless of the ultimate end use case(s), timely, accurate, and complete data is paramount to energy and sustainability management and reporting. We’re looking for a Data Processing Analyst to work alongside our Customer Success team to ensure utility data is accurately integrated, delivered, and made available to the client within our platform.
+What you’ll do:
+Work with Customer Success and Implementation teams to stand up new clients, with a focus on communication, speed, and data quality
+Review audit results for utility invoices and determine next steps
+Communicate with utility companies and energy suppliers to manage billing issues
+Obtain required data from clients, format and reconfigure as necessary, and set up within EnergyWatch’s watchwire platform
+Identify and resolve data gaps
+Ensure utility data is delivered and accurately captured in a timely manner
+Assist Customer Success and Implementation teams as directed
+Assist Executive team as needed
+Who you are:
+Detail oriented
+Eager to learn
+Experienced with Microsoft Excel
+Excellent oral and written communicator
+Able to handle deadlines, high stress situations, and effectively resolve conflicts
+Fluent in English
+Experience with utility data and invoices is a plus
+Eligible to work in the US full-time
+EnergyWatch offers:
+100% remote work, or hybrid if you prefer
+Competitive salary commensurate with experience
+401(k) and company contribution
+Paid vacation and holidays
+Health insurance, with company contribution
+Application Requirements:
+1. Resume
+2. Explanation of why you’d be a good fit for our company
+3. Send all the above to hr@energywatch-inc.com
+Remote or New York City","$66,556 /yr (est.)",$49K ,$91K
+20,2022-01-24,glassdoor,data analyst,1.0,Junior Data Analyst,true,true,The Parkside Group,4d,,,,,,,,,,,Junior Associate - Data Analytics,"New York, NY","The Parkside Group is a full-service public affairs, political consulting and government affairs firm based in NYC and Albany
+We are seeking a Junior Associate to assist our political and public affairs teams with data analysis and research support for candidate and issue campaigns. This is an entry-level position at the firm, and the ideal candidate will have at least 1 cycle of experience on a political campaign, with field experience strongly preferred.
+Responsibilities:
+Procure election result data from Boards of Elections and relevant data from other sources and ensure all data is entered without mistakes.
+Work with political team to produce district analysis documents for pitches and campaign clients
+Input polling results into presentation format and transcribe verbatim results accurately
+Generate spreadsheets for tracking outreach and coalition building efforts for issue campaigns
+Background research on organizations, candidates, elected officials and issues in NYC and NYS for internal or client use
+Requirements:
+Exceptional Microsoft Excel skills and proficiency in Powerpoint/Google Slides
+Ability to clean data and understand various data types
+Preferable:
+Experience with R/SQL/Python or comparable statistical software
+Entry-level campaign or government experience, preferably in New York
+The Parkside Group is an equal opportunity employer and we strongly encourage women, minority, LGBTQ and/or disabled candidates to apply. This is an entry-level position, but there is opportunity to grow within the company.
+Job Type: Full-time
+Benefits:
+401(k)
+Health insurance
+Paid time off
+Schedule:
+Monday to Friday
+Supplemental Pay:
+Bonus pay
+Work Location: Multiple Locations",,,
+21,2022-01-24,glassdoor,data analyst,1.0,Data Analyst,false,true,AT&T,13d,10000+ Employees,1983,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),3.7,3203 Ratings,65 %,62 %,Data Analyst,"New York, NY","Our Story
+Xandr is a technology platform powering one of the largest global Advanced TV and Video advertising marketplaces in the industry. We scale our business as WarnerMedia people who independently build the Xandr platform and brand. For more than a decade, our data insights, premium content, powerful technology, and scaled direct-to-consumer distribution have given us a competitive edge — leading us to improving advertising for all brands, publishers, and consumers.
+
+How do we do this? With talented, passionate people like you! We bring together people from diverse backgrounds and give them an opportunity to bring their ideas to life. Join our community to Make Advertising Better!
+
+The Job
+Data Analytics, within Data Science, is the creative thought leader responsible for ensuring that our counterparts across the company are enabled to make data driven decisions every day. We partner closely with the Commercial, Operations, Product, Research, and Engineering teams to study client, product, and algorithmic performance data. The Sr. Analyst role leads a few initiatives by partnering with VPs and Directors in other parts of the company, like Product or Customer Success, to provide them with the analytics support they need to make great decisions. This role is perfect for someone who has a quantitatively-oriented degree, experience in a data analytics role, a passion for mathematics, analytics, and coding, and a strong desire to use data to inspire progress.
+
+You Will
+Become an expert in Advertising Technology, from Real-Time-Bidding to Linear Television. Use your expertise and breadth of knowledge to drive data-driven-decisions from senior members of the Xandr Product and Services team.
+Own at least 2 projects areas within Data Analytics. Provide expert data science support while also delegating to associate analysts where needed.
+Work closely with internal teammates and our largest clients to provide Return on Investment (ROI)-focused insights and recommendations
+Analyze and problem solve client and product performance issues
+Design and execute A/B tests to assess the impact of potential buying strategy, optimization technique, or product release
+Partner with Data Science, Product and Engineering teams to roll out and monitor success of new algorithms and product lines
+Demonstrate thought leadership in digital media analytics and optimization
+Help build our Analytics practice by developing training materials, customer facing assets and internal resources
+Provide feedback and share knowledge with other teams across the company
+
+You Have
+Bachelor’s degree in Computer Science, Analytics, Math, or another quantitively-oriented degree
+2 - 6 years of relevant analytics work experience
+Experience working with extremely large datasets in a fast-paced, entrepreneurial and fluid start-up environment
+Experience leading small team and delegating responsibilities.
+Strong analytical and problem-solving skills with a demonstrable passion to dig into terabytes of data and quickly construct tools
+Experience with data visualization and using data to tell a story
+Preferred: Mastery of SQL and Python (NumPy, Pandas);
+Proven excellence at formulating, understanding, and solving complex, non-routine problems
+Outstanding organization and presentation skills
+Strong written and verbal communication skills
+
+More About You
+You are passionate about a culture of learning and teaching. You love challenging yourself to constantly improve, and sharing your knowledge to empower others
+You like to take risks when looking for novel solutions to complex problems. If faced with roadblocks, you continue to reach higher to make greatness happen
+You care about solving big, systemic problems. You look beyond the surface to understand root causes so that you can build long-term solutions for the whole ecosystem
+You believe in not only serving customers, but also empowering them by providing knowledge and tools
+
+Our Perks
+Comprehensive healthcare coverage
+Flexible time off including volunteer days, vacation, and holidays
+Professional development resources and education reimbursement
+Paid parental leave
+Fitness reimbursement
+AT&T internet/phone and HBOMax discounts
+401k with company match
+
+Our Culture
+Xandr strives to foster a diverse, inclusive and engaging work environment. Our inclusivity in action includes:
+Staying connected and embracing this new normal as we work from home - we may be social distancing but we're #InsideTogether
+Creating meaningful change for our communities and pathways for future generations of diverse talent through our employee volunteerism efforts
+Sharing insight and stories on what it’s really like to work here
+Partnering with organizations to support our commitment to women’s advancement in tech
+Providing accommodations for persons with disabilities, both for interviewees and for employees. Should you require an accommodation, please let us know and we’ll make arrangements
+
+
+Awards
+Xandr, its products and its executives have received several prestigious awards. In 2020 alone, Cablefax's annual The Faxies awards named Xandr’s EVP and GM Innovator of the Year and the Xandr technology organization Tech Team of the Year. In the same year, seven female executives were included in the Cynopsis list of Top Women in Media, and several of its products, innovations and client partnerships were recognized by esteemed outlets globally, including AdExchanger, Digiday, The Drum, ExchangeWire and Cynopsis. Concurrently, the company’s dedication to corporate social responsibility was recognized in Fast Company’s 2020 World Changing Ideas issue. Xandr was also included on Business Insider's Hottest AdTech Companies list in 2019 and 2018.
+
+Xandr is an equal opportunity employer. Qualified candidates will receive consideration for employment without regard to race, color, religion, national origin, gender, sexual orientation, gender identity or expression, age, mental or physical disability, and genetic information, marital status, citizenship status, military status, protected veteran status or any other category protected by law.
+Xandr Twitter
+Xandr Instagram
+Xandr LinkedIn","$75,037 /yr (est.)",$54K ,$104K
+22,2022-01-24,glassdoor,data analyst,1.0,Entry Level Data Analyst,true,true,PCS GLOBAL TECH,30d+,501 to 1000 Employees,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,,4.5,0 Ratings,95 %,N/A,Data Analyst / Entry level Positions,"New York, NY","For short this position is an intensive trainee-to-hire experience for aspiring IT consultants. Is a 3-month program, we train young professionals in high-demand technologies related to business intelligence and data analytics. Those who successfully complete the program are then hired as full-time consultants by our sister company, CCS Global Tech, where they get to work hand-in-hand with major players in the industry. Our consultants work on projects with companies like Microsoft, Facebook, Wells Fargo, and many more!
+Duración del contrato: 15 meses
+Job Types: Full-time, Contract
+Salary: $65,000.00 - $82,000.00 per year
+Education:
+Bachelor's (Required)
+Experience:
+SQL: 1 year (Required)
+Willingness to travel:
+75% (Required)
+Work Remotely:
+Temporarily due to COVID-19",,,
+23,2022-01-24,glassdoor,data analyst,1.0,Data Analyst,true,true,Cool Minds LLC,25d,1 to 50 Employees,2007,Company - Public,Unknown / Non-Applicable,,,3.0,0 Ratings,100 %,N/A,Data Analyst,"New York, NY","Data Analyst ( Oracle SCM Cloud )
+100%. Remote role
+Hiring Data Analyst (Oracle SCM Cloud) on w2
+Fully Remote
+Must have exp. in Oracle SCM Cloud, Fulfillment Management – Order Fulfillment, Inventory, Shipping, Receiving and Manufacturing
+Immediate closure
+*
+Job Description: Helps Clients understand Fulfillment related business processes and transform their business using Oracle SCM Cloud. Helps capture and distill Order Fulfillment, Inventory, Shipping, Receiving and Manufacturing related requirements, evaluate options for design using prototypes. Setup, Document and Test the Oracle System. Review Technical aspects of the solution designs for Interfaces, Reports and Data Conversions. Assists the developers by reviewing designs, code and performing functional unit testing. The resource should have good overall SCM functional knowledge and experience (inventory, shipping, receiving, manufacturing), especially with table structures and API’s for interfaces.
+Consultant should fulfill the following requirements:
+Minimum 2 years of Oracle Cloud Experience with 2-3 of the following modules with an emphasis on Fulfillment Management – Order Fulfillment, Inventory, Shipping, Receiving and Manufacturing
+Minimum of 1 full life-cycle implementation with Oracle SCM Cloud Implementations
+Minimum 2 years of Oracle Cloud Experience in a functional advisory or Consulting Role
+Oracle Cloud Certification Preferred
+Contract length: 12 months
+Job Types: Full-time, Contract
+Salary: $40,617.00 - $103,930.00 per year
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Schedule:
+8 hour shift
+Supplemental Pay:
+Bonus pay
+Commission pay
+Application Question(s):
+What is your visa status/ work Authorization and can you work on w2?
+Experience:
+Oracle SCM Cloud: 4 years (Preferred)
+Inventory, Shipping, Receiving and Manufacturing: 5 years (Preferred)
+Work Remotely:
+Yes",,,
+24,2022-01-24,glassdoor,data analyst,1.0,Junior Data Analyst,true,true,"Evergreen Technologies, LLC.",21d,Unknown,Company - Public,Unknown / Non-Applicable,,,,,,,,"Junior Data Analyst - JDA21-03259 - New York, NY","Long Beach, NY","Position: Junior Data Analyst - JDA21-03259- New York, NY
+Location: Working Remotely in NY
+Job responsibilities b will entail:
+Governance-Lead management, maintenance, and governance of data standards.
+Define standards for data to enable end to end data integration across systems.
+Build an understanding and document the data flow, from its source to where it is reported and analyzed.
+Manage the Strategic Dashboard process, feeding and quality analysis.
+Manage new data initiatives and related projects by defining high-level business case, providing requirements, and tracking and prioritizing data projects within domain.
+Manage confidentiality, given sensitivity of data being managed, defining data access permission plan, managing access requests, Process compliance /
+Change Management Monitoring data quality level, supporting data users as an expert of data in domain and ensuring compliance with SOP.
+Work collaboratively with Center of Excellence, Business, and IT partners.
+Provide consultative stewardship services to agile delivery teams and ensure enterprise data stewardship best practices.
+Participate in internal data governance communities and represent the Digital Analytics and Innovation Team.
+Data dictionary Contribute to the definition / validation of business definitions for data elements.
+Identify need for and support data changes in Data Implement changes to business definitions related to Strategic Management and Business Process for Data Quality.
+Define quality rules for tender data within domain.
+Identify issues to remediate and prioritize when relevant.
+Inform Data Responsible on remediation actions and support.
+Oversee remediation of Data Quality issues.","$60,735 /yr (est.)",$37K ,$101K
+25,2022-01-24,glassdoor,data analyst,1.0,Data Analyst,false,true,Richmond University Medical Center,30d+,1 to 50 Employees,Hospital,Health Care Services & Hospitals,Health Care,Less than $1 million (USD),,3.0,24 Ratings,43 %,34 %,Trauma Data Analyst,"Staten Island, NY","The Trauma Data Analyst will be working under the trauma program manager to provide medical record data collection, abstraction and entry of all trauma patients into the New York State Trauma Registry and the National Trauma Data Bank Registry. She/he will produce reports and analysis for internal and external review and provides administrative support within department of trauma services.
+
+Requirements:
+High School Diploma required. Bachelor’s degree preferred.
+Ability to utilize the standard word, excel, power point to perform data analysis.
+Ability to utilize a patient electronic medical record /hospital clinical information system.
+
+Location: Richmond University Medical Center · Trauma Services
+Schedule: Full-Time, Day Shift, 8 a.m. - 4 p.m.","$65,003 /yr (est.)",$44K ,$96K
+26,2022-01-24,glassdoor,data analyst,1.0,Data Analyst,true,true,iRecruit Tech,3d,Unknown,Company - Public,Unknown / Non-Applicable,,,,,,,,Jr. Data Analyst,"Yonkers, NY","This is a great opportunity for an experienced individual to join a Data analytics team focused on the Clinical Laboratory space. So, if you’re experienced, driven, and are looking for a new challenge.
+Responsibilities:
+As a Data Analyst you’ll use your advance Excel and PowerPoint skills to analyze and prepare data presentations and conclusions for the marketing teams of major pharmaceuticals organizations
+Analyze data so that it can be accurately mapped into a pre-boarding system utilizing proprietary programs, Microsoft Excel and Microsoft PowerPoint
+Qualifications:
+As you’ve probably gathered by now, we are looking for somebody that has the ability to work individually and collaboratively, define objectives, and influence leadership to get the best outcome
+Excellent process improvement and project management skills
+Advanced Microsoft Excel, PowerPoint and Access skills
+Detail-oriented and focused
+Strong proactive problem solving and analytical skills
+Ability to handle multiple priorities, meet fluctuating deadlines and demonstrate strong multi-tasking abilities
+Ability to work independently effectively
+Exceptional communication skills (verbal and written)
+Exceptional organizational and time management skills
+Ability to work effectively in a high-volume environment
+Ability to perform training as needed
+Requirements:
+Degree in Computer Science
+Fully Vaccinated
+Job Types: Full-time, Part-time, Contract
+Pay: Up to $55,000.00 per year
+Ability to commute/relocate:
+Yonkers, NY: Reliably commute or planning to relocate before starting work (Preferred)
+Application Question(s):
+Do you have a degree in Computer Science?
+Are you fully Vaccinated?
+Experience:
+Data Analyst: 2 years (Preferred)
+Advance Excel: 2 years (Preferred)
+Work Location: One location",,,
+27,2022-01-24,glassdoor,data analyst,1.0,Data Analyst,false,true,Montefiore Medical Center,6d,10000+ Employees,1884,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),3.6,150 Ratings,67 %,74 %,DATA ANALYST,"Bronx, NY","The Community Health Systems Lab (CHSL) is a new research center in the Division of Research, Department of Family & Social Medicine at Montefiore Health System/Albert Einstein College of Medicine (MHS/AECOM), that harnesses both the science of implementation and expertise of communities to reimagine how community health can be delivered. CHSL engages communities and frontline service providers to guide the definition and selection of research questions, as well as the input into implementation strategy and evaluation design of CHSL initiatives.
+
+The CHSL Data Analyst will provide data management, quality, and analytic support to our team that focuses on how health systems can address social determinants of health to improve health outcomes in the Bronx. This position will be engaged in all aspects of data management, quality, analysis and reporting for CHSL supported programs/initiatives.
+
+EDUCATION/SKILLS REQUIRED:
+Bachelor's Degree coupled with a least one (1) year related experience
+Experience with Microsoft Word, PowerPoint, and Excel is required; Intermediate SQL skills required.
+Experience with statistical package (i.e.,SAS, Stata, R) and database software (i.e., REDCap) is preferred
+Additional experience in data visualization (i.e., Tableau) and spatial analysis (i.e., ArcGIS) is a plus.
+Excellent interpersonal, organizational, and communication skills.
+Excellent analytical and problem-solving skills.
+Ability to identify, analyze and, solve problems while working as part of a team. Assumes responsibility for tasks to ensure issues will be addressed and monitors them through conclusion.
+
+Department: Family Medicine Bargaining Unit: Non Union Campus: MOSES Employment Status: Regular Full-Time Address: 3544 Jerome Avenue, Bronx
+Shift: Day Scheduled Hours: 8:30 AM-5 PM Req ID: 169741
+
+Montefiore is an equal employment opportunity employer. Montefiore will recruit, hire, train, transfer, promote, layoff and discharge associates in all job classifications without regard to their race, color, religion, creed, national origin, alienage or citizenship status, age, gender, actual or presumed disability, history of disability, sexual orientation, gender identity, gender expression, genetic predisposition or carrier status, pregnancy, military status, marital status, or partnership status, or any other characteristic protected by law.
+
+N/A","$61,734 /yr (est.)",$45K ,$85K
+28,2022-01-24,glassdoor,data analyst,1.0,Data Analyst,false,true,Deutsche Bank,30d+,10000+ Employees,1870,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD),3.9,1581 Ratings,77 %,90 %,FIC Data Analytics Strat - Analyst,"New York, NY","Job Title: FIC Data Analytics Strat
+Corporate Title: Analyst
+Location: New York, NY
+Overview
+We are looking for a data analytics strat to work on electronic rates and credit products. You will focus on building client and flow analytics for different products across the fixed income market. As the FIC Data Analytics Strat Analyst your position is technical, quantitative, and focused on idea generation and data analysis, requiring strong coding skills and a strong academic background. Specific experience in electronic trading or in analyzing client data is highly desirable.
+What We Offer You:
+We offer competitive health and wellness benefits, empowering you to value life in and out of the office
+Retirement savings plans, parental leave, and other family-friendly programs
+An environment that encourages networking and collaboration across functions and businesses
+Active engagement with the local community through Deutsche Bank’s specialized employee groups
+Hear from our people and look inside our office: DB@The Muse
+Your Key Responsibilities:
+Working on and taking ownership of building data analytics, including analysis on client trading trajectory, attributing P&L to different sources and understanding the cost of our inventory management, for electronic rates and credit products
+Building a generic data framework to extend across different products while keeping the product specific nuances
+Ensuring that the reasoning, thought process and analysis behind all work is well understood and agreed upon
+Forming strong partnerships across the Bank including with electronic trading, technology, voice trading and the broad Strats community
+Your Skills and Experience:
+Relevant experience in data analytics for global markets
+Strong coding skills with experience in data analysis with languages like Python, kdb/Q
+Strong academic background in statistics or computer engineering or a related field and/or significant recent industry experience
+Cooperative attitude and focus on clearly communicating reasoning and analysis
+Self-motivated to understand business requirements and coming up with analytical solution
+Our values define the working environment we strive to create - diverse, supportive and welcoming of different views. We embrace a culture reflecting a variety of perspectives, insights and backgrounds to drive innovation. We build talented and diverse teams to drive business results and encourage our people to develop to their full potential. Talk to us about flexible work arrangements and other initiatives we offer.
+We promote good working relationships and encourage high standards of conduct and work performance. We welcome applications from talented people from all cultures, countries, races, genders, sexual orientations, disabilities, beliefs and generations and are committed to providing a working environment free from harassment, discrimination and retaliation.
+
+
+
+We are an Equal Opportunity Employer - Veterans/Disabled and other protected categories. Click these links to view the following notices: ""EEO is the Law poster"" and supplement ; Employee Rights and Responsibilities under the Family and Medical Leave Act ; Employee Polygraph Protection Act and Pay Transparency Nondiscrimination Provision .","$94,887 /yr (est.)",$64K ,$141K
+29,2022-01-24,glassdoor,data analyst,1.0,Entry Level Business Analyst,true,true,CloudServiceTek,3d,51 to 200 Employees,Contract,Unknown / Non-Applicable,,,,,,,,Entry Level Business Analyst,"New York, NY","Responsibilities:
+Analyse and design business processes and proposed solution for business process re-engineering throughout the process mapping lifecycle
+Involve in creating Reports and Documents like Requirements, Documents, and Management Plan, Issue/Alternatives documents, Project Summary and Plans
+Work closely with the project manager and IT technical lead to identify research and escalate issues and risks to the appropriate work stream for resolution
+Communicate effectively with clients to provide outstanding customer service during all the phases of client relationship management from presenting to potential clients
+Conduct regular scrum, sprint planning and retrospective meetings for the IT team onshore and offshore.
+Work with the clients for requirements gathering and developed business process as well as presented the proposal to the client on behalf of the team.
+Required:
+Master’s or Bachelor’s in Business, Management, Science, Computers, Engineering or related.
+Expertise in working as a business analyst/quality assurance with high levels of technical and technological knowledge.
+Knowledge on creating Business Requirements and Gathering sessions in the form of questionnaires and business scenarios
+Expertise in preparing Process flow diagrams, Business requirement documents (BRD), Systems requirement Documents (SRD)
+Knowledge of Software Development Life Cycle (SDLC) with a thorough understanding of its various methodologies like Waterfall and Agile.
+Job Type: Full-time
+Pay: $60,000.00 - $80,000.00 per year
+Benefits:
+401(k)
+Dental insurance
+Employee assistance program
+Employee discount
+Health insurance
+Referral program
+Relocation assistance
+Schedule:
+8 hour shift
+Monday to Friday
+Education:
+Bachelor's (Preferred)
+Work Location: One location",,,
