@@ -1,4 +1,8 @@
 import discord
+import os
+from dotenv import find_dotenv, load_dotenv
+
+load_dotenv(find_dotenv())
 
 intents = discord.Intents.default()
 intents.members = True
@@ -34,4 +38,4 @@ async def on_message(message):
         user = guild.get_member(user_id=221457952802865152)
         await user.send('👀 I SEE YOU (user).')
 
-client.run('OTkzNjYwMTI0MTE3ODY4NTY1.GBgTgy.3H6ldg8mO1eNhxalVYDqFjSJMJv0-6-g5G8nQ4')
+client.run(os.getenv("REDOXBOT_DISCORDCLIENT"))
